@@ -1,0 +1,55 @@
+stock,ticker,name,asset_type,sector,exchange,currency,description,yfinance_ticker
+State Street SPDR S&P500 (ARCX:SPY),SPY,State Street SPDR S&P500,ETF,-,NYSE Arca,USD,,SPY
+FTSE AllWld UCITS ETF USD A (XETR:VWCE),VWCE,FTSE AllWld UCITS ETF USD A,ETF,-,Xetra,EUR,,VWCE.DE
+iShares:MSCI World (ARCX:URTH),URTH,iShares:MSCI World,ETF,-,NYSE Arca,USD,,URTH
+iShs CrMSCI EMIMIUCITS ETFUSDA (XLON:EIMI),EIMI,iShs CrMSCI EMIMIUCITS ETFUSDA,ETF,-,London Stock Exchange,USD,,EIMI.L
+iShares STOXXEurope600UCITSETF (XETR:EXSA),EXSA,iShares STOXXEurope600UCITSETF,ETF,-,Xetra,EUR,,EXSA.DE
+APPLE INC. (XNAS:AAPL),AAPL,APPLE INC.,Stock,"Computers, Phones & Household Electronics",Nasdaq Stock Market,USD,,AAPL
+MICROSOFT CORPORATION (XNAS:MSFT),MSFT,MICROSOFT CORPORATION,Stock,Software & IT Services,Nasdaq Stock Market,USD,,MSFT
+NVIDIA CORPORATION (XNAS:NVDA),NVDA,NVIDIA CORPORATION,Stock,Semiconductors & Semiconductor Equipment,Nasdaq Stock Market,USD,,NVDA
+ALPHABET INC. (XNAS:GOOGL),GOOGL,ALPHABET INC.,Stock,Software & IT Services,Nasdaq Stock Market,USD,,GOOGL
+"AMAZON.COM, INC. (XNAS:AMZN)",AMZN,"AMAZON.COM, INC.",Stock,Diversified Retail,Nasdaq Stock Market,USD,,AMZN
+"META PLATFORMS, INC. (XNAS:META)",META,"META PLATFORMS, INC.",Stock,Software & IT Services,Nasdaq Stock Market,USD,,META
+"SALESFORCE, INC. (XNYS:CRM)",CRM,"SALESFORCE, INC.",Stock,Software & IT Services,New York Stock Exchange,USD,,CRM
+JOHNSON & JOHNSON (XNYS:JNJ),JNJ,JOHNSON & JOHNSON,Stock,Pharmaceuticals,New York Stock Exchange,USD,,JNJ
+PFIZER INC. (XNYS:PFE),PFE,PFIZER INC.,Stock,Pharmaceuticals,New York Stock Exchange,USD,,PFE
+"MERCK & CO., INC. (XNYS:MRK)",MRK,"MERCK & CO., INC.",Stock,Pharmaceuticals,New York Stock Exchange,USD,,MRK
+ABBVIE INC. (XNYS:ABBV),ABBV,ABBVIE INC.,Stock,Pharmaceuticals,New York Stock Exchange,USD,,ABBV
+ELI LILLY AND COMPANY (XNYS:LLY),LLY,ELI LILLY AND COMPANY,Stock,Pharmaceuticals,New York Stock Exchange,USD,,LLY
+BRISTOL-MYERS SQUIBB COMPANY (XNYS:BMY),BMY,BRISTOL-MYERS SQUIBB COMPANY,Stock,Pharmaceuticals,New York Stock Exchange,USD,,BMY
+GENERAL ELECTRIC COMPANY (XNYS:GE),GE,GENERAL ELECTRIC COMPANY,Stock,Aerospace & Defense,New York Stock Exchange,USD,,GE
+CATERPILLAR INC. (XNYS:CAT),CAT,CATERPILLAR INC.,Stock,"Machinery, Equipment & Components",New York Stock Exchange,USD,,CAT
+THE BOEING COMPANY (XNYS:BA),BA,THE BOEING COMPANY,Stock,Aerospace & Defense,New York Stock Exchange,USD,,BA
+HONEYWELL INTERNATIONAL INCORPORATION (XNAS:HON),HON,HONEYWELL INTERNATIONAL INCORPORATION,Stock,Consumer Goods Conglomerates,Nasdaq Stock Market,USD,,HON
+3M COMPANY (XNYS:MMM),MMM,3M COMPANY,Stock,Consumer Goods Conglomerates,New York Stock Exchange,USD,,MMM
+DEERE & COMPANY (XNYS:DE),DE,DEERE & COMPANY,Stock,"Machinery, Equipment & Components",New York Stock Exchange,USD,,DE
+EXXONMOBIL HOLDINGS CORPORATION (XNYS:XOM),XOM,EXXONMOBIL HOLDINGS CORPORATION,Stock,Oil & Gas,New York Stock Exchange,USD,,XOM
+CHEVRON CORPORATION (XNYS:CVX),CVX,CHEVRON CORPORATION,Stock,Oil & Gas,New York Stock Exchange,USD,,CVX
+CONOCOPHILLIPS (XNYS:COP),COP,CONOCOPHILLIPS,Stock,Oil & Gas,New York Stock Exchange,USD,,COP
+SLB N.V. (XNYS:SLB),SLB,SLB N.V.,Stock,Oil & Gas Related Equipment and Services,New York Stock Exchange,USD,,SLB
+OCCIDENTAL PETROLEUM CORPORATION (XNYS:OXY),OXY,OCCIDENTAL PETROLEUM CORPORATION,Stock,Oil & Gas,New York Stock Exchange,USD,,OXY
+"EOG RESOURCES, INC. (XNYS:EOG)",EOG,"EOG RESOURCES, INC.",Stock,Oil & Gas,New York Stock Exchange,USD,,EOG
+ASML Holding N.V. (XNAS:ASML),ASML,ASML Holding N.V.,Stock,Semiconductors & Semiconductor Equipment,Nasdaq Stock Market,USD,,ASML
+SAP SE (XFRA:SAP),SAP,SAP SE,Stock,Software & IT Services,Deutsche Boerse AG,EUR,,SAP.DE
+Siemens AG (XETR:SIE),SIE,Siemens AG,Stock,"Machinery, Equipment & Components",Xetra,EUR,,SIE.DE
+INFORMA PLC (XLON:INF),INF,INFORMA PLC,Stock,Professional & Commercial Services,London Stock Exchange,GBp,,INF.L
+Prosus NV (XAMS:PRX),PRX,Prosus NV,Stock,Software & IT Services,Euronext Amsterdam,EUR,,PRX.AS
+Nokia Oyj (XHEL:NOKIA),NOKIA,Nokia Oyj,Stock,Communications & Networking,NASDAQ Helsinki,EUR,,NOKIA.HE
+Novartis Inc. (XSWX:NOVN),NOVN,Novartis Inc.,Stock,Pharmaceuticals,SIX Swiss Exchange,CHF,,NOVN.SW
+Roche Holding Ltd (XSWX:RO),RO,Roche Holding Ltd,Stock,Pharmaceuticals,SIX Swiss Exchange,CHF,,RO.SW
+Sanofi SA (XPAR:SAN),SAN,Sanofi SA,Stock,Pharmaceuticals,Euronext Paris,EUR,,SAN.PA
+ASTRAZENECA PLC (XLON:AZN),AZN,ASTRAZENECA PLC,Stock,Pharmaceuticals,London Stock Exchange,GBp,,AZN.L
+GSK PLC (XLON:GSK),GSK,GSK PLC,Stock,Pharmaceuticals,London Stock Exchange,GBp,,GSK.L
+Bayer AG (XFRA:BAYN),BAYN,Bayer AG,Stock,Pharmaceuticals,Deutsche Boerse AG,EUR,,BAYN.DE
+Airbus SE (XPAR:AIR),AIR,Airbus SE,Stock,Aerospace & Defense,Euronext Paris,EUR,,AIR.PA
+Schneider Electric SE (XPAR:SU),SU,Schneider Electric SE,Stock,"Machinery, Equipment & Components",Euronext Paris,EUR,,SU.PA
+Volkswagen AG (XETR:VOW3),VOW3,Volkswagen AG,Stock,Automobiles & Auto Parts,Xetra,EUR,,VOW3.DE
+Bayerische Motoren Werke Aktiengesellschaft (XETR:BMW),BMW,Bayerische Motoren Werke Aktiengesellschaft,Stock,Automobiles & Auto Parts,Xetra,EUR,,BMW.DE
+Abb Ltd (XSWX:ABBNE),ABBNE,Abb Ltd,Stock,"Machinery, Equipment & Components",SIX Swiss Exchange,CHF,,ABBNE.SW
+Safran SA (XPAR:SAF),SAF,Safran SA,Stock,Aerospace & Defense,Euronext Paris,EUR,,SAF.PA
+SHELL PLC (XLON:SHEL),SHEL,SHELL PLC,Stock,Oil & Gas,London Stock Exchange,GBp,,SHEL.L
+TotalEnergies SE (XPAR:TTE),TTE,TotalEnergies SE,Stock,Oil & Gas,Euronext Paris,EUR,,TTE.PA
+Eni SpA (XMIL:ENI),ENI,Eni SpA,Stock,Oil & Gas,Borsa Italiana,EUR,,ENI.MI
+"Repsol, S.A. (BMEX:REP)",REP,"Repsol, S.A.",Stock,Oil & Gas,Bolsas y Mercados Espanoles,EUR,,REP.MC
+Equinor ASA (XOSL:EQNR),EQNR,Equinor ASA,Stock,Oil & Gas,Oslo Bors Asa,NOK,,EQNR.OL
+BP P.L.C. (XLON:BP.),BP.,BP P.L.C.,Stock,Oil & Gas,London Stock Exchange,GBp,,BP.L
