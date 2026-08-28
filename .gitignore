@@ -12,6 +12,7 @@ __pycache__/
 # Excel outputs (if generated, not meant to be tracked)
 output/
 *.xlsx
+*.docx
 
 # OS junk
 .DS_Store
